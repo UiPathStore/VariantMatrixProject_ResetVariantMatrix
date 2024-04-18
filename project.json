@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.2.1.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.167140848",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -43,10 +43,10 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
-        "testCaseId": "ef2ca91c-249f-48fc-b9af-13574b9d607a",
+        "editingStatus": "Publishable",
+        "testCaseId": "0eb85e19-79ab-4a6b-aa58-dbd35b5ad0a7",
         "testCaseType": "TestCase",
-        "fileName": "TestCase.xaml"
+        "fileName": "BL_ResetVariant.xaml"
       }
     ],
     "saveToCloud": false
